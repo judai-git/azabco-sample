@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="The Great Alaskan Bush Company logo">
+  <polygon points="600.0,155.0 699.9,462.5 1023.2,462.5 761.7,652.5 861.6,960.0 600.0,770.0 338.4,960.0 438.3,652.5 176.8,462.5 500.1,462.5" fill="none" stroke="#E1252B" stroke-width="46" stroke-linejoin="miter"/>
+  <g font-family="'Noto Sans Display','Arial Narrow',sans-serif" fill="#F6F1E6" text-anchor="middle">
+    <text x="600" y="528" font-size="58" font-weight="600" letter-spacing="20" font-stretch="condensed">THE GREAT</text>
+    <text x="600" y="692" font-size="176" font-weight="700" letter-spacing="5" font-stretch="condensed">ALASKAN</text>
+    <text x="600" y="872" font-size="176" font-weight="700" letter-spacing="5" font-stretch="condensed">BUSH CO</text>
+  </g>
+</svg>
